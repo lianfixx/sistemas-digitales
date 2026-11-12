@@ -7,3 +7,12 @@
 - Archivos: README.md, AGENTS.md, ia/REGLAS.md, ia/PROTOCOLO.md, CHANGELOG.md.
 - Verificación: escritura inicial en GitHub → confirmada; revisión funcional del sitio → no ejecutada.
 - Pendiente: inventariar fuentes y recursos originales; recuperar o reconstruir implementación con evidencia; añadir pruebas.
+
+
+## 2026-11-12 · Reconstrucción inicial de la landing comercial
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar y documentar el sitio público de Sistemas Digitales, conservando identidad y comportamiento observable.
+- Cambios: se añadió una landing estática reconstruida con planes, alcances, FAQ, demostración interactiva y formulario que prepara un correo local; no procesa pagos ni envía datos a servidor.
+- Archivos: `index.html`.
+- Verificación: escritura en GitHub → confirmada; pruebas de navegador, formulario y comparación visual → no ejecutadas.
+- Pendiente: recuperar el texto legal íntegro, rutas originales de contratación/privacidad, assets y confirmar precios vigentes antes de producción.
