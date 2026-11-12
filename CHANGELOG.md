@@ -16,3 +16,12 @@
 - Archivos: `index.html`.
 - Verificación: escritura en GitHub → confirmada; pruebas de navegador, formulario y comparación visual → no ejecutadas.
 - Pendiente: recuperar el texto legal íntegro, rutas originales de contratación/privacidad, assets y confirmar precios vigentes antes de producción.
+
+
+## 2026-11-12 · Asistente y condiciones del servicio
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar rutas públicas y documentación de Sistemas Digitales.
+- Cambios: se añadió la página interactiva con 12 capacidades del asistente y filtros; se incorporó transcripción de las diez secciones de condiciones públicas, versión sd-2026-09-05.
+- Archivos: `asistente.html`, `terminos.html`.
+- Verificación: escrituras en GitHub → confirmadas; comparación visual y pruebas de interacción → no ejecutadas.
+- Pendiente: recuperar el aviso de privacidad completo y el flujo de contratación; confirmar si la versión pública sigue vigente.
