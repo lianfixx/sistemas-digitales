@@ -70,3 +70,12 @@
 - Archivos: `README.md`.
 - Verificación: actualización en GitHub → confirmada; ejecución de build y comparación visual → no ejecutadas.
 - Pendiente: validar en navegador y completar recuperación de activos originales.
+
+
+## 2026-11-12 · Preselección de plan
+- Agente: ChatGPT (GPT-6)
+- Solicitud: completar navegación de contratación.
+- Cambios: `contratar.html` interpreta el parámetro `?plan=` y selecciona el plan coincidente.
+- Archivos: `contratar.html`.
+- Verificación: actualización en GitHub → confirmada; prueba en navegador → no ejecutada.
+- Pendiente: comprobar los tres parámetros de plan en navegador.
