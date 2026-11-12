@@ -25,3 +25,14 @@ Preservar la identidad visual y los elementos aprobados. No inventar planes, pre
 3. Recuperar la implementación exacta cuando sea posible.
 4. Si la exportación no existe, reconstruir con fidelidad y documentar las diferencias.
 5. Ejecutar verificaciones y registrar limitaciones antes de declarar recuperación completa.
+
+
+## Implementación recuperada en este repositorio
+
+- `index.html`: landing de planes con demostración interactiva y formulario local de correo.
+- `asistente.html`: catálogo filtrable de 12 capacidades y panel de detalle.
+- `contratar.html`: solicitud de plan por correo, sin checkout ni contrato automático.
+- `terminos.html` y `privacidad.html`: transcripción de documentos públicos inspeccionados.
+- `docs/INSPECCION-PUBLICA.md`: mapa de rutas, precios, capacidades y límites.
+
+**Alcance:** reconstrucción estática, no backend, Stripe, FORJA ni automatizaciones activas. Los precios y documentos deben confirmarse antes de operar. No se ha desplegado esta copia.
