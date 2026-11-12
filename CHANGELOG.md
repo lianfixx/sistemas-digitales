@@ -43,3 +43,12 @@
 - Archivos: `privacidad.html`, `contratar.html`.
 - Verificación: escrituras en GitHub → confirmadas; prueba de formulario y revisión legal independiente → no ejecutadas.
 - Pendiente: validar vigencia del aviso y condiciones, verificar links y comparar visualmente.
+
+
+## 2026-11-12 · Enlaces internos de contratación y asistente
+- Agente: ChatGPT (GPT-6)
+- Solicitud: completar navegación reconstruida de Sistemas Digitales.
+- Cambios: las tarjetas de planes llevan a la solicitud de plan y la navegación ofrece acceso al catálogo de 12 capacidades.
+- Archivos: `index.html`.
+- Verificación: actualización en GitHub → confirmada; navegación real en navegador → no ejecutada.
+- Pendiente: probar rutas y parámetros de plan.
