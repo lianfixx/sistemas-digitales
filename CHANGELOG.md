@@ -61,3 +61,12 @@
 - Archivos: `.gitignore`, `.env.example`.
 - Verificación: archivos escritos en GitHub → confirmados; escaneo automático de secretos → no ejecutado.
 - Pendiente: ejecutar escáner de secretos y configurar variables protegidas si se incorporan integraciones reales.
+
+
+## 2026-11-12 · README actualizado
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar y documentar los seis sitios web.
+- Cambios: el README enumera los archivos implementados y distingue reconstrucción de fuente original, integraciones desactivadas y pendientes.
+- Archivos: `README.md`.
+- Verificación: actualización en GitHub → confirmada; ejecución de build y comparación visual → no ejecutadas.
+- Pendiente: validar en navegador y completar recuperación de activos originales.
