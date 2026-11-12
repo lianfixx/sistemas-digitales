@@ -34,3 +34,12 @@
 - Archivos: `docs/INSPECCION-PUBLICA.md`.
 - Verificación: archivo escrito y releído por GitHub → confirmado; auditoría visual independiente → no ejecutada.
 - Pendiente: resolver las fuentes originales, assets y pruebas indicadas en el informe.
+
+
+## 2026-11-12 · Aviso de privacidad y solicitud de plan
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar las rutas públicas de Sistemas Digitales.
+- Cambios: se transcribió el aviso de privacidad público versión 1.2 (5/09/2026) y se añadió un flujo de solicitud que prepara un correo; no procesa pagos ni formaliza contratos.
+- Archivos: `privacidad.html`, `contratar.html`.
+- Verificación: escrituras en GitHub → confirmadas; prueba de formulario y revisión legal independiente → no ejecutadas.
+- Pendiente: validar vigencia del aviso y condiciones, verificar links y comparar visualmente.
