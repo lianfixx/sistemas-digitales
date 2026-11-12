@@ -25,3 +25,12 @@
 - Archivos: `asistente.html`, `terminos.html`.
 - Verificación: escrituras en GitHub → confirmadas; comparación visual y pruebas de interacción → no ejecutadas.
 - Pendiente: recuperar el aviso de privacidad completo y el flujo de contratación; confirmar si la versión pública sigue vigente.
+
+
+## 2026-11-12 · Documentación de inspección pública
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperación completa y documentada de los seis proyectos web.
+- Cambios: Inspección de landing, 12 capacidades del asistente y condiciones públicas; registro de límites y rutas por recuperar.
+- Archivos: `docs/INSPECCION-PUBLICA.md`.
+- Verificación: archivo escrito y releído por GitHub → confirmado; auditoría visual independiente → no ejecutada.
+- Pendiente: resolver las fuentes originales, assets y pruebas indicadas en el informe.
